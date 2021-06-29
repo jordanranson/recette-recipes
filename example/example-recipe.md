@@ -26,19 +26,19 @@ these are, the names, of a bunch, of tags
 
 ### Specific Directions 1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in ullamcorper justo. Proin ullamcorper odio at laoreet imperdiet. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in ullamcorper justo.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in ullamcorper justo. Proin ullamcorper odio at laoreet imperdiet. 
+Maecenas in ullamcorper justo. Proin ullamcorper odio at laoreet imperdiet. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in ullamcorper justo. Proin ullamcorper odio at laoreet imperdiet. 
+Proin ullamcorper odio at laoreet imperdiet.  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Specific Directions 2
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in ullamcorper justo. Proin ullamcorper odio at laoreet imperdiet. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in ullamcorper justo.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in ullamcorper justo. Proin ullamcorper odio at laoreet imperdiet. 
+Maecenas in ullamcorper justo. Proin ullamcorper odio at laoreet imperdiet. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in ullamcorper justo. Proin ullamcorper odio at laoreet imperdiet.
+Proin ullamcorper odio at laoreet imperdiet.  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ---
 
