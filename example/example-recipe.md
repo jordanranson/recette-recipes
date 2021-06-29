@@ -39,3 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in ullamcorper
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in ullamcorper justo. Proin ullamcorper odio at laoreet imperdiet. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in ullamcorper justo. Proin ullamcorper odio at laoreet imperdiet.
+
+---
+
+author: Jordan Ranson
